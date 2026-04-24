@@ -45,7 +45,7 @@
 - 반응형 웹 · 모바일 최적화 UI
 - Vue.js 3 + Node.js 풀스택 구축
 
-🔗 **[바로가기](https://www.vcat.kr)**
+🔗 **[바로가기](https://www.vcat.kr)** *(실제 운영 중 ✅)*
 
 ---
 
@@ -76,10 +76,8 @@
 
 원하는 채널로 편하게 연락 주세요. 프로젝트 규모·일정·예산 알려주시면 **24시간 이내 답변**드립니다.
 
-[![Kmong]([https://img.shields.io/badge/크몽-FF6B35?style=for-the-badge&logoColor=white](https://kmong.com/@개발지망생긴밤이))](https://kmong.com/@%EA%B0%9C%EB%B0%9C%EC%A7%80%EB%A7%9D%EC%83%9D%EA%B8%B4%EB%B0%A4%EC%9D%B4)
-
+[![Kmong](https://img.shields.io/badge/크몽-FF6B35?style=for-the-badge&logoColor=white)](https://kmong.com/@%EA%B0%9C%EB%B0%9C%EC%A7%80%EB%A7%9D%EC%83%9D%EA%B8%B4%EB%B0%A4%EC%9D%B4)
 [![Soomgo](https://img.shields.io/badge/숨고-00C9A7?style=for-the-badge&logoColor=white)](https://soomgo.com/profile/users/15988924)
-
 [![Blog](https://img.shields.io/badge/네이버블로그-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/longnight0719)
 
 ---
