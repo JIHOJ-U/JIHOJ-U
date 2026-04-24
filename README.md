@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 안녕하세요, 지호입니다
+# 안녕하세요, 지호입니다
 
 **Vue.js 3 · Node.js 기반 웹 개발 프리랜서**
 
@@ -77,7 +77,9 @@
 원하는 채널로 편하게 연락 주세요. 프로젝트 규모·일정·예산 알려주시면 **24시간 이내 답변**드립니다.
 
 [![Kmong](https://img.shields.io/badge/크몽-FF6B35?style=for-the-badge&logoColor=white)](https://kmong.com/@%EA%B0%9C%EB%B0%9C%EC%A7%80%EB%A7%9D%EC%83%9D%EA%B8%B4%EB%B0%A4%EC%9D%B4)
+
 [![Soomgo](https://img.shields.io/badge/숨고-00C9A7?style=for-the-badge&logoColor=white)](https://soomgo.com/profile/users/15988924)
+
 [![Blog](https://img.shields.io/badge/네이버블로그-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/longnight0719)
 
 ---
