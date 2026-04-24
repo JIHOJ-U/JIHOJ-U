@@ -21,7 +21,7 @@
 - Node.js / Express REST API 및 MySQL 연동
 - Vercel(프론트) + Render Pro(백엔드) 운영
 
-🔗 **[서비스 바로가기](https://carplayauto.kr)** *(오픈 준비 중)*
+🔗 **[서비스 바로가기](https://www.carplayauto.kr)** *(오픈 준비 중)*
 
 <br>
 
