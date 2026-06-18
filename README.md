@@ -6,7 +6,7 @@
 
 기업 홈페이지부터 비교·매칭 플랫폼까지,
 실제로 운영되는 서비스를 만드는 개발자입니다.
-Homepage : https://홈페이지공방.kr (https://xn--ob0b910a0pihjc79s61d.kr/)
+Homepage : https://홈페이지공방.kr
 
 </div>
 
